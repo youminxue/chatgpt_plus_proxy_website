@@ -29,4 +29,4 @@ pip install requests flask
 
 ## 注意事项
 
-1. 只能用于Plus会员账号调用，免费账号会有CF验证。
+1. 只能用于Plus会员账号使用，免费账号没有_puid参数会有CF验证。
