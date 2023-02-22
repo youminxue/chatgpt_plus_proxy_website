@@ -30,3 +30,4 @@ pip install requests flask
 ## 注意事项
 
 1. 只能用于Plus会员账号使用，免费账号没有_puid参数会有CF验证。
+2. 目前登陆上的账号不需要翻墙也能正常使用。
