@@ -1,5 +1,5 @@
 # chatgpt_plus_proxy_website
-Flask反向代理ChatGPT Plus，完美复刻chat.openai.com/chat
+Flask反向代理ChatGPT网站，完美复刻chat.openai.com/chat
 
 ## 准备
 
